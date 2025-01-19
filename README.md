@@ -1,14 +1,20 @@
-Cardiovascular Disease or coronary illness is one of the significant dangerous infections in the 
-entire world. It is also the major cause for significant number of deaths. So, proper and timely diagnosis 
-treatment of such diseases is necessary. It Requires a system that can predict with precise accuracy and 
-reliability. Intensive research is carried out by our team members using diverse machine learning 
-algorithms to forecast the heart disease taking different datasets which consists of different attributes that 
-result in heart attack. We analyzed the dataset collected from Kaggle which consists of attributes related 
-to heart disease such as age, gender, blood pressure, cholesterol and so on. 
- We employ six classification algorithms to predict cardiovascular disease. Models are trained 
-using a publicly available dataset of cardiovascular disease cases. we proposed an efficient and accurate 
-system to diagnosis heart disease and the system is based on machine learning techniques. The system is 
-developed based on classification algorithms includes Support vector machine, Logistic regression, K
-nearest neighbor, Naïve bays, Random Forest, and Decision tree while standard features selection 
-algorithms have been used such as Relief, Minimal redundancy maximal relevance, least absolute 
-shrinkage selection operator and Local learning for removing irrelevant and redundant features. 
+Cardiovascular Disease (CVD) is one of the leading causes of death worldwide. Recognizing the importance of timely and accurate diagnosis, I embarked on a project to develop a system that predicts CVD with high precision and reliability.
+To achieve this, I conducted intensive research and employed various machine learning algorithms to forecast heart disease using diverse datasets. The project involved analyzing a dataset from Kaggle, which included attributes related to heart disease such as age, gender, blood pressure, and cholesterol levels.
+I utilized six classification algorithms to predict cardiovascular disease:
+
+Support Vector Machine (SVM)
+
+Logistic Regression
+
+K-Nearest Neighbor (KNN)
+
+Naive Bayes
+
+Random Forest
+
+Decision Tree
+
+For this project, I trained the models using a publicly available dataset of cardiovascular disease cases. The primary goal was to develop an efficient and accurate system for diagnosing heart disease. To enhance the model's performance, I implemented several feature selection algorithms, including Relief, Minimal Redundancy Maximal Relevance (mRMR), Least Absolute Shrinkage and Selection Operator (LASSO), and Local Learning, to remove irrelevant and redundant features.
+
+This project demonstrated my ability to apply machine learning techniques to real-world problems and develop solutions that can potentially save lives by enabling early detection and treatment of cardiovascular diseases.
+
